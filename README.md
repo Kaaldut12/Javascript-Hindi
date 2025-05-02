@@ -12,15 +12,15 @@ A code of Javascript
 
 
 type of daratype
-    number 2 to power 53
-    bigint
-    string=> ""
-    boolean = true/false
-    null => standalone value
-    undefined => value not assign
-    symble => Unique
+    number 2 to power 53,
+    bigint,
+    string=> "",
+    boolean = true/false,
+    null => standalone value,
+    undefined => value not assign,
+    symble => Unique,
 
 
 
 
-    object 
+    object ,
